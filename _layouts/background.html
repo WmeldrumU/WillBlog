@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    
+    {% include head.html %}
+    <body>
+        {{ content }}
+    </body>
+    <!-- Script below seems to fix FOUC -->
+    <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+</html>
