@@ -1,7 +1,0 @@
----
-layout: index
-title: Welcome
-my_name: William Meldrum
-my_description: Software Engineer
-work_description: Phasellus enim sapien, blandit ullamcorper elementum eu, condimentum eu elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia luctus elit eget interdum.
----
